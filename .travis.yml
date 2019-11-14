@@ -1,0 +1,6 @@
+---
+dist: bionic
+
+language: minimal
+
+script: make test
